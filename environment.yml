@@ -1,0 +1,10 @@
+depenndencies:
+- python = 3
+- pip:
+  - spacy
+  - ipykernel
+  - scipy
+  - numpy
+  - pandas
+  - requests
+  - matplotlib
