@@ -5,6 +5,5 @@ requests
 xlrd
 openpyxl
 bs4
-csv
 Pillow
 lxml
