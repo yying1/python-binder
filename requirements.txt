@@ -6,4 +6,5 @@ xlrd
 openpyxl
 bs4
 csv
-PIL
+Pillow
+lxml
