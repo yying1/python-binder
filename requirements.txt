@@ -4,3 +4,4 @@ matplotlib
 requests
 xlrd
 openpyxl
+bs4
